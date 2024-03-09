@@ -60,7 +60,7 @@ To run the analysis, follow these steps:
 ### Immunological response 
 #### Kaplan Meier curve for immunological response
 
-![KM_IR.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/3bb1f665baf4da5bbcadec5f88c5ae27be0acee1/TO_ADRM%20Manuscript/outputs/images/KM_IR.svg?token=AG7SLFBNBFNC6PNMHY23V23F5QM3S)
+![KM_IR.svg](https://github.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/blob/main/TO_ADRM%20Manuscript/outputs/images/KM_IR.svg)
 
 #### Cox regression
 
@@ -70,11 +70,11 @@ To run the analysis, follow these steps:
 
 ### Viral suppression
 #### Kaplan Meier curve for viral suppression
-![KM_VS.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/b3db0996a3d91bb6b63cbd42ff3b7f0dfdb30b47/TO_ADRM%20Manuscript/outputs/images/KM_VS.svg?token=AG7SLFHM4XE7W5UXLAVIFMTF5QNKU)
+![KM_VS.svg](https://github.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/blob/main/TO_ADRM%20Manuscript/outputs/images/KM_VS.svg)
 
 #### Kaplan Meier curve for viral suppression stratified by intiation of ART
 
-![KM_VS_ART.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/3bb1f665baf4da5bbcadec5f88c5ae27be0acee1/TO_ADRM%20Manuscript/outputs/images/KM_VS_ART.svg?token=AG7SLFA7HPQNJGDV6DYT3LDF5QMSM)
+![KM_VS_ART.svg](https://github.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/blob/main/TO_ADRM%20Manuscript/outputs/images/KM_VS_ART.svg)
 
 
 #### Cox regression
@@ -84,7 +84,7 @@ To run the analysis, follow these steps:
 
 ### ADRM and viral load correlation
 
-![](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/dcb07ba61c3fa795587a8975b6726b04ed5a020d/TO_ADRM%20Manuscript/outputs/images/ADR-viral%20load%20correlation.svg?token=AG7SLFFNJVFZXDCK3VGMFQDF5QN34)
+![](https://github.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/blob/main/TO_ADRM%20Manuscript/outputs/images/ADR-viral%20load%20correlation.svg)
 
 ### Acquired drug resistance 
 
