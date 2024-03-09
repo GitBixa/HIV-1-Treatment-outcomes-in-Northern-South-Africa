@@ -58,9 +58,9 @@ To run the analysis, follow these steps:
 
 #### Cox regression analysis
 
-```markdown
-[table](TO_ADRM Manuscript/outputs/tables/Summary tablec3429c16269.docx)
-```
+
+[table](TO_ADRM%20Manuscript/outputs/tables/Summary%20tablec3429c16269.docx)
+
 
 ## Session Info
 
