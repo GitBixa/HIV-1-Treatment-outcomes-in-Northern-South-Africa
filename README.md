@@ -60,7 +60,7 @@ To run the analysis, follow these steps:
 ### Immunological response 
 #### Kaplan Meier curve for immunological response
 
-[KM_IR.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/3bb1f665baf4da5bbcadec5f88c5ae27be0acee1/TO_ADRM%20Manuscript/outputs/images/KM_IR.svg?token=AG7SLFBNBFNC6PNMHY23V23F5QM3S)
+![KM_IR.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/3bb1f665baf4da5bbcadec5f88c5ae27be0acee1/TO_ADRM%20Manuscript/outputs/images/KM_IR.svg?token=AG7SLFBNBFNC6PNMHY23V23F5QM3S)
 
 ### Viral suppression
 #### Kaplan Meier curve for viral suppression
