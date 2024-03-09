@@ -64,7 +64,7 @@ To run the analysis, follow these steps:
 
 ### Viral suppression
 #### Kaplan Meier curve for viral suppression
-![KM_VS.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/29a52fda934d377c230c4f5a3baeb66126d34970/TO_ADRM%20Manuscript/outputs/images/KM_VS.svg?token=AG7SLFCTBAIXXJ5JBIFWSGTF5QKVG)
+![KM_VS.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/b3db0996a3d91bb6b63cbd42ff3b7f0dfdb30b47/TO_ADRM%20Manuscript/outputs/images/KM_VS.svg?token=AG7SLFHM4XE7W5UXLAVIFMTF5QNKU)
 
 #### Kaplan Meier curve for viral suppression stratified by intiation of ART
 
