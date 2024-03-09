@@ -53,9 +53,12 @@ To run the analysis, follow these steps:
 ## Results
 
 ### Viral suppression results 
-
+#### Kaplan Meier curve
 ![TO_ADRM Manuscript/outputs/images/KM_VS.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/29a52fda934d377c230c4f5a3baeb66126d34970/TO_ADRM%20Manuscript/outputs/images/KM_VS.svg?token=AG7SLFCTBAIXXJ5JBIFWSGTF5QKVG)
 
+#### Cox regression analysis
+
+[table](TO_ADRM Manuscript/outputs/tables/Summary tablec3429c16269.docx)
 
 ## Session Info
 
