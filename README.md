@@ -1,6 +1,6 @@
 # HIV-Treatment-outcomes-in-Northern-South-Africa
 
-This repository contains R code used for analysis included in our manuscript titled **Immunologic, virologic and drug resistance outcomes in an HIV-infected prospective cohort on treatment in South Africa** [DOI]. The analysis was performed using R-4.2.3 (arm64).
+This repository contains R code used for analysis included in our article titled **Immunologic, virologic and drug resistance outcomes in an HIV-infected prospective cohort on treatment in South Africa** [DOI]. The analysis was performed using R-4.2.3 (arm64).
 
 ## Overview
 The project includes scripts for data preparation, summary table, survival analysis, cox regression analysis and correlation plot. Key components include:
