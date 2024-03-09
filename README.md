@@ -52,14 +52,37 @@ To run the analysis, follow these steps:
 
 ## Results
 
-### Viral suppression results 
-#### Kaplan Meier curve
-![TO_ADRM Manuscript/outputs/images/KM_VS.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/29a52fda934d377c230c4f5a3baeb66126d34970/TO_ADRM%20Manuscript/outputs/images/KM_VS.svg?token=AG7SLFCTBAIXXJ5JBIFWSGTF5QKVG)
+### Summary table 
+
+[Table showing participant characteristics](TO_ADRM%20Manuscript/outputs/tables/Summary%20tablec3429c16269.docx)
+
+
+### Immunological response 
+#### Kaplan Meier curve for immunological response
+
+[KM_IR.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/3bb1f665baf4da5bbcadec5f88c5ae27be0acee1/TO_ADRM%20Manuscript/outputs/images/KM_IR.svg?token=AG7SLFBNBFNC6PNMHY23V23F5QM3S)
+
+### Viral suppression
+#### Kaplan Meier curve for viral suppression
+![KM_VS.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/29a52fda934d377c230c4f5a3baeb66126d34970/TO_ADRM%20Manuscript/outputs/images/KM_VS.svg?token=AG7SLFCTBAIXXJ5JBIFWSGTF5QKVG)
+
+#### Kaplan Meier curve for viral suppression stratified by intiation of ART
+
+![KM_VS_ART.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/3bb1f665baf4da5bbcadec5f88c5ae27be0acee1/TO_ADRM%20Manuscript/outputs/images/KM_VS_ART.svg?token=AG7SLFA7HPQNJGDV6DYT3LDF5QMSM)
+
 
 #### Cox regression analysis
 
+[Table showing associations between viral suppression and participant characteristics](TO_ADRM%20Manuscript/outputs/tables/Coxhazard%20for%20viral%20suppressionc34b7098c.docx)
 
-[table](TO_ADRM%20Manuscript/outputs/tables/Summary%20tablec3429c16269.docx)
+### Immunological response
+
+![TO_ADRM Manuscript/outputs/images/KM_VS.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/29a52fda934d377c230c4f5a3baeb66126d34970/TO_ADRM%20Manuscript/outputs/images/KM_VS.svg?token=AG7SLFCTBAIXXJ5JBIFWSGTF5QKVG)
+
+
+
+
+
 
 
 ## Session Info
