@@ -62,6 +62,12 @@ To run the analysis, follow these steps:
 
 ![KM_IR.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/3bb1f665baf4da5bbcadec5f88c5ae27be0acee1/TO_ADRM%20Manuscript/outputs/images/KM_IR.svg?token=AG7SLFBNBFNC6PNMHY23V23F5QM3S)
 
+#### Cox regression
+
+[Table showing associations between immunological response and participant characteristics](TO_ADRM%20Manuscript/outputs/tables/Coxhazard%20for%20Immunological%20responsec344907189f.docx)
+
+
+
 ### Viral suppression
 #### Kaplan Meier curve for viral suppression
 ![KM_VS.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/b3db0996a3d91bb6b63cbd42ff3b7f0dfdb30b47/TO_ADRM%20Manuscript/outputs/images/KM_VS.svg?token=AG7SLFHM4XE7W5UXLAVIFMTF5QNKU)
@@ -71,17 +77,19 @@ To run the analysis, follow these steps:
 ![KM_VS_ART.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/3bb1f665baf4da5bbcadec5f88c5ae27be0acee1/TO_ADRM%20Manuscript/outputs/images/KM_VS_ART.svg?token=AG7SLFA7HPQNJGDV6DYT3LDF5QMSM)
 
 
-#### Cox regression analysis
+#### Cox regression
 
 [Table showing associations between viral suppression and participant characteristics](TO_ADRM%20Manuscript/outputs/tables/Coxhazard%20for%20viral%20suppressionc34b7098c.docx)
 
-### Immunological response
 
-![TO_ADRM Manuscript/outputs/images/KM_VS.svg](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/29a52fda934d377c230c4f5a3baeb66126d34970/TO_ADRM%20Manuscript/outputs/images/KM_VS.svg?token=AG7SLFCTBAIXXJ5JBIFWSGTF5QKVG)
+### ADRM and viral load correlation
+
+![](https://raw.githubusercontent.com/GitBixa/HIV-1-Treatment-outcomes-in-Northern-South-Africa/dcb07ba61c3fa795587a8975b6726b04ed5a020d/TO_ADRM%20Manuscript/outputs/images/ADR-viral%20load%20correlation.svg?token=AG7SLFFNJVFZXDCK3VGMFQDF5QN34)
+
+### Acquired drug resistance 
 
 
-
-
+[Excel file with data and graphs showing counts of Acquired drug resistance](TO_ADRM%20Manuscript/datasets/ADRMdata.xlsx)
 
 
 
