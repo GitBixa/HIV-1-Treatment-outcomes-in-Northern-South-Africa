@@ -13,7 +13,7 @@ Visualization: Generation of plot to visualize association between drug resistan
 
 ## Repository Structure
 
-A parent folder called "TO_ADRM Manuscript" which contains 3 child folders called "code", "dataset" and "outputs". The child folder outputs contains sub-child folders "images" and "tables"
+A parent folder called "TO_ADRM Manuscript" which contains 3 child folders called "code" and "outputs". The child folder named outputs contains sub-child folders "images" and "tables"
 
 The child folder labelled code contains R codes used to generate outputs
 - table_1.R: R script summarizing characteristics of study population
@@ -22,12 +22,6 @@ The child folder labelled code contains R codes used to generate outputs
 - cox_regression_analysis.R: R script for regression analysis
 - ADRMandVLcorrelations.R: R script for visualizing drug resistance vs viral load
 
-The child folder labelled dataset contains all the files containing data for running the analysis 
-- BaselineData.csv: Baseline data for summarizing characteristics of study population
-- viralSuppression.csv: Viral suppression data
-- ImmunologicalResponse.csv: Immunological response data
-- ADRMandVLcorr.csv: data for visualizing drug resistance vs viral load
-- ADRMdata.xlsx: data for excel graphs for summarizing frequencies of acquired drug resistance
 
 The child folder labelled outputs contains word/docx files and svg images generated from running analysis 
 
